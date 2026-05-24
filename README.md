@@ -3,9 +3,7 @@
 **Curso:** Machine Learning (203008067)  
 **Universidad:** UNAD — Universidad Nacional Abierta y a Distancia  
 **Especialización:** Ciencia de Datos y Analítica  
-**Grupo:** 03  
-**Autor:** Wilmer Ricardo Urda — Código: 101719427  
-**Tutor:** Rafael Gaitan  
+**Grupo:** 03   
 **Período:** 2026-I
 
 ---
@@ -13,15 +11,6 @@
 ## Descripción
 
 Práctica simulada remota que implementa y compara tres algoritmos clásicos de clustering no supervisado sobre dos datasets del repositorio OpenML. Cada ejercicio aplica el algoritmo a ambos datasets, incluye análisis de parámetros, visualizaciones y perfilamiento interpretativo de los clústeres resultantes.
-
----
-
-## Archivo principal
-
-| Archivo | Descripción |
-|---|---|
-| `G03_Wilmer_Urda_Fase3.ipynb` | Notebook principal con los tres ejercicios |
-| `Guía de aprendizaje - Fase 3 - Componente práctico - Prácticas simuladas.pdf` | Guía oficial de la actividad |
 
 ---
 
